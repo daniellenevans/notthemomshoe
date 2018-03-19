@@ -1,0 +1,66 @@
+@font-face {
+    font-family: "Bebas Neue Bold", "PT Mono regular";
+   src: url("css/Fonts/BebasNeueBold.otf");
+   src: url("css/Fonts/PTMono.ttc");
+}
+
+
+
+
+
+.site-intro {
+    height: 107px;
+    width: 648px;
+    text-align: left;
+    margin-left: 25%;
+    margin-right: -25%;
+    letter-spacing: 4px;
+    line-height: 23px;
+}
+
+#shoe-month {
+    text-align: center;
+    letter-spacing: 5.94px;
+    padding-top: 60px;
+    padding-bottom: 30px;
+    font-family:"PT Mono", monospace, sans-serif; 
+    
+
+}
+
+h1{
+    font-family: "Bebas Neue", Arial, Helvetica, sans-serif;
+    font-size: 80px;
+    text-align: center;
+    letter-spacing: 5.94px;
+    line-height: 77px;
+}
+
+p {
+    font-family: "PT Mono", monospace, sans-serif;
+    
+}
+
+
+
+#mom-shoe {
+    text-align: center;
+}
+
+.generateKicks {
+    width: 10%;
+    height: 57px;
+    
+    border-radius: 7px;
+    color: white;
+    background-color: black;
+}
+
+#butn {
+    text-align: center;
+    padding-top: 40px;
+}
+
+input:focus {
+    outline:0;
+}
