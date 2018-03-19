@@ -39,5 +39,5 @@ function display_month() {
 
 display_month();
 
-// display link to show when mouse over
+
 
